@@ -1,0 +1,2 @@
+cls
+python Network_Diagnostic_Tool.py
